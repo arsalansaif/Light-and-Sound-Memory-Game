@@ -38,8 +38,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/6OsQcSa.gif)
+![](https://i.imgur.com/mRD16Qo.gif)
+![](https://i.imgur.com/sZnnRpk.gif)
+![](https://i.imgur.com/7HU39d2.gif)
+![](https://i.imgur.com/ojjlzv6.gif)
+![](https://i.imgur.com/QOh0qKC.gif)
+![](https://i.imgur.com/89ZErPS.gif)
 
 
 ## Reflection Questions
